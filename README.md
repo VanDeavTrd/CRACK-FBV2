@@ -1,7 +1,5 @@
 # CRACK-FBV2
 
-# COMING SOON 🔥
-
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Maulana-XD?style=flat-square&logo=github)](https://github.com/Maulana-XD)<br> [![Facebook](https://img.shields.io/badge/Facebook-maulana.xd.devcode-blue?style=flat-square&logo=facebook)](https://www.facebook.com/maulana.xd.devcode)<br>
 
 
